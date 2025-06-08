@@ -1,1 +1,36 @@
+ Lesson 1 – Enabling Data Analytics
+
+ Step 1: Understand the Data Landscape First
+Before discussing goals, I would begin by understanding:
+- What data is currently collected?
+- Where is it stored? (databases, files, cloud storage)
+- In what formats? (CSV, JSON, SQL tables, logs)
+- How often is it updated?
+
+This helps assess technical readiness and define boundaries for analytics.
+
+ Step 2: Identify Data Gaps
+After reviewing the data sources, I would ask:
+- Do we have all the data needed for analysis?
+- Are there any key missing fields or systems?
+- Is the data reliable, complete, and consistent?
+
+Understanding what is missing is as important as knowing what is available.
+
+ Step 3: Clarify Business Goals
+With the data context in mind, I would meet with stakeholders and ask:
+- What are the most important business questions we need to answer?
+- Are we focused on performance, forecasting, customer behavior, or operations?
+- What KPIs are already tracked? Which ones are needed?
+
+ Step 4: Build ETL to Align with Business Goals
+Once goals and data availability are clear, I would:
+- Extract relevant raw data from source systems.
+- Transform it to match business logic and reporting requirements.
+- Load it into a structured form (e.g., data warehouse, dashboard-ready tables).
+
+This ensures that the analytics system is both technically feasible and business-driven.
+
+ Conclusion
+My approach is data-first but goal-aligned: validate the available inputs, understand the expected outputs, and then build a clean, maintainable data pipeline to bridge the two.
 
