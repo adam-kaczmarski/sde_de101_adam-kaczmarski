@@ -34,3 +34,5 @@ This ensures that the analytics system is both technically feasible and business
  Conclusion
 My approach is data-first but goal-aligned: validate the available inputs, understand the expected outputs, and then build a clean, maintainable data pipeline to bridge the two.
 
+My interest in data engineering started when I wanted to better understand the philosophy of Data Lifecycle Management — how data is collected, used, stored, and cleaned up over time.
+
